@@ -1,0 +1,1 @@
+Make haste, o God, to deliver me; make haste to help me, O LORD.

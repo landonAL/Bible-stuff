@@ -1,0 +1,1 @@
+Unto the place of the altar, which he had make there at the first: and there Abram called on the name of the LORD.

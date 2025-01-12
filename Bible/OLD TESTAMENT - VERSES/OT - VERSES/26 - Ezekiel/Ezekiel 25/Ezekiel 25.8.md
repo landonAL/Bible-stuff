@@ -1,0 +1,1 @@
+Thus saith the Lord God; Because that Moab and Seir do say, Behold, the house of Judah is like unto all the heathen;

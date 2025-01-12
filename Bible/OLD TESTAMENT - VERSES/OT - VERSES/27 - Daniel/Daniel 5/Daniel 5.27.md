@@ -1,0 +1,1 @@
+Tekel; Thou art weighed in the balances, and art found wanting.

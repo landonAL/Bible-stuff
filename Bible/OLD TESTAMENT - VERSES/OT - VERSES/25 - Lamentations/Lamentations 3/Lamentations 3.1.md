@@ -1,0 +1,1 @@
+I Am the man that hath seen affliction by the rod of his wrath.

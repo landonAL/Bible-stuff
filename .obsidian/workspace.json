@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "3f092b05796f2e47",
+    "type": "split",
+    "children": [
+      {
+        "id": "917d443212f76e52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c9950497509f3dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doctrines/Punishment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Punishment"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6070050514c62f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "26883b610618f4ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7e1644414d9114d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b687792c5a2981b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2b427d0845285e24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d693bcbd7e6ab8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "87fa9d200ac51b99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7d417c84687b28a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Creeds & Confessions/Chalcedonian Creed.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chalcedonian Creed"
+            }
+          },
+          {
+            "id": "ed90876602778949",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Creeds & Confessions/Chalcedonian Creed.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chalcedonian Creed"
+            }
+          },
+          {
+            "id": "2a6f614173749761",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1667f6b0e3de9f75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Creeds & Confessions/Chalcedonian Creed.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chalcedonian Creed"
+            }
+          },
+          {
+            "id": "68174ba49ea0c123",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "68174ba49ea0c123",
+  "lastOpenFiles": [
+    "Bible/asd.ps1",
+    "Bible/New Windows Batch File.bat",
+    "Doctrines/Trinity.md",
+    "Doctrines/Punishment.md",
+    "Doctrines/Mary's sinlessness.md",
+    "Doctrines/Messiah.md",
+    "Doctrines/Ways to salvation.md",
+    "Doctrines/Tongues.md",
+    "Doctrines/Perpetual virginity of Mary.md",
+    "Doctrines/Homosexuality.md",
+    "Questions/Why do we deserve an infinite punishment for a finite crime.md",
+    "Questions",
+    "Creeds & Confessions/Apostle's Creed.md",
+    "Creeds & Confessions/Nicene Creed.md",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 10/Mark 10.18.md",
+    "Images/Types of Predestination process'.png",
+    "Recording 20250112082549.m4a",
+    "Recording 20250112082530.m4a",
+    "Images/Denominations Divided.png",
+    "Miscellaneous/False Denominations/Jehovah's Witness.md",
+    "Miscellaneous/False Denominations/Mormonism.md",
+    "Bible/OLD TESTAMENT - VERSES/OT - VERSES/05 - Deuteronomy/Deuteronomy 22/Deuteronomy 22.5.md",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/15 - 1 Timothy/1 Timothy 1/1 Timothy 1.8.md",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/15 - 1 Timothy/1 Timothy 1/1 Timothy 1.11.md",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/15 - 1 Timothy/1 Timothy 1/1 Timothy 1.10.md",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/15 - 1 Timothy/1 Timothy 1/1 Timothy 1.9.md",
+    "Images/Does the Bible have more authority than the Church ( Protestant vs. Catholic).png",
+    "Bible/OLD TESTAMENT - VERSES/OT - VERSES/01 - Genesis/Genesis 2/Genesis 2.24.md",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/26 - Jude/Jude 1/Jude 1.7.md",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/06 - Romans/Romans 1/Romans 1.26.md",
+    "Bible/OLD TESTAMENT - VERSES/OT - VERSES/03 - Leviticus/Leviticus 18/Leviticus 18.22.md",
+    "Images/How is one saved pt 3. (actual process Protestant vs. Catholic).png",
+    "Creeds & Confessions/Chalcedonian Creed.md",
+    "Hope Scriptures.md",
+    "Images/Pyramid of Truth.png",
+    "Images/Reformed view of Communion.png",
+    "Images/Major Protestant Beliefs.png",
+    "Images/How is one saved pt 2. (What does faith and works mean to Protestant and Catholic).png",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 9",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 8",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 7",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 6",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 5",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 4",
+    "Images/Christology (How we talk about Christ).png",
+    "Images/How do the Sacraments effect salvation.png"
+  ]
+}
