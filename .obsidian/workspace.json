@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctrines/Punishment.md",
-                "mode": "source",
+                "file": "Doctrines/Homosexuality.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Punishment"
+              "title": "Homosexuality"
             }
           }
         ]
@@ -174,18 +174,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68174ba49ea0c123",
+  "active": "4c9950497509f3dd",
   "lastOpenFiles": [
+    "Bible/OLD TESTAMENT - VERSES/OT - VERSES/03 - Leviticus/Leviticus 18/Leviticus 18.22.md",
+    "Doctrines/Homosexuality.md",
+    "Doctrines/Punishment.md",
     "Bible/asd.ps1",
     "Bible/New Windows Batch File.bat",
     "Doctrines/Trinity.md",
-    "Doctrines/Punishment.md",
     "Doctrines/Mary's sinlessness.md",
     "Doctrines/Messiah.md",
     "Doctrines/Ways to salvation.md",
     "Doctrines/Tongues.md",
     "Doctrines/Perpetual virginity of Mary.md",
-    "Doctrines/Homosexuality.md",
     "Questions/Why do we deserve an infinite punishment for a finite crime.md",
     "Questions",
     "Creeds & Confessions/Apostle's Creed.md",
@@ -206,7 +207,6 @@
     "Bible/OLD TESTAMENT - VERSES/OT - VERSES/01 - Genesis/Genesis 2/Genesis 2.24.md",
     "Bible/NEW TESTAMENT - VERSES/NT - VERSES/26 - Jude/Jude 1/Jude 1.7.md",
     "Bible/NEW TESTAMENT - VERSES/NT - VERSES/06 - Romans/Romans 1/Romans 1.26.md",
-    "Bible/OLD TESTAMENT - VERSES/OT - VERSES/03 - Leviticus/Leviticus 18/Leviticus 18.22.md",
     "Images/How is one saved pt 3. (actual process Protestant vs. Catholic).png",
     "Creeds & Confessions/Chalcedonian Creed.md",
     "Hope Scriptures.md",
@@ -219,7 +219,6 @@
     "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 7",
     "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 6",
     "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 5",
-    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 4",
     "Images/Christology (How we talk about Christ).png",
     "Images/How do the Sacraments effect salvation.png"
   ]
