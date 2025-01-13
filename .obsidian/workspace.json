@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "18cfd14765304425",
+        "id": "917d443212f76e52",
         "type": "tabs",
         "children": [
           {
-            "id": "cec0dd50543c56f4",
+            "id": "4c9950497509f3dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Doctrines/Evolution.md",
+                "bFile": "Doctrines/Evolution.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Evolution"
             }
           }
         ]
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Creeds & Confessions/Chalcedonian Creed.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Chalcedonian Creed"
             }
           },
           {
@@ -168,20 +174,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cec0dd50543c56f4",
+  "active": "4c9950497509f3dd",
   "lastOpenFiles": [
-    "Doctrines/Punishment.md",
-    "Punishment^asd.md",
+    "Doctrines/Evolution.md",
+    "Bible/OLD TESTAMENT - VERSES/OT - VERSES/01 - Genesis/Genesis 2/Genesis 2.7.md",
     "Doctrines/Homosexuality.md",
+    "Doctrines/Mary's sinlessness.md",
+    "Doctrines/Ways to salvation.md",
+    "Doctrines/Trinity.md",
+    "Doctrines/Tongues.md",
+    "Doctrines/Punishment.md",
+    "Doctrines/Perpetual virginity of Mary.md",
+    "Doctrines/Messiah.md",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 10/Mark 10.6.md",
+    "Bible/OLD TESTAMENT - VERSES/OT - VERSES/01 - Genesis/Genesis 5/Genesis 5.md",
     "Bible/OLD TESTAMENT - VERSES/OT - VERSES/03 - Leviticus/Leviticus 18/Leviticus 18.22.md",
     "Bible/asd.ps1",
     "Bible/New Windows Batch File.bat",
-    "Doctrines/Trinity.md",
-    "Doctrines/Mary's sinlessness.md",
-    "Doctrines/Messiah.md",
-    "Doctrines/Ways to salvation.md",
-    "Doctrines/Tongues.md",
-    "Doctrines/Perpetual virginity of Mary.md",
     "Questions/Why do we deserve an infinite punishment for a finite crime.md",
     "Questions",
     "Creeds & Confessions/Apostle's Creed.md",
@@ -201,10 +210,7 @@
     "Images/Does the Bible have more authority than the Church ( Protestant vs. Catholic).png",
     "Bible/OLD TESTAMENT - VERSES/OT - VERSES/01 - Genesis/Genesis 2/Genesis 2.24.md",
     "Bible/NEW TESTAMENT - VERSES/NT - VERSES/26 - Jude/Jude 1/Jude 1.7.md",
-    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/06 - Romans/Romans 1/Romans 1.26.md",
     "Images/How is one saved pt 3. (actual process Protestant vs. Catholic).png",
-    "Creeds & Confessions/Chalcedonian Creed.md",
-    "Hope Scriptures.md",
     "Images/Pyramid of Truth.png",
     "Images/Reformed view of Communion.png",
     "Images/Major Protestant Beliefs.png",
