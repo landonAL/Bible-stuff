@@ -4,7 +4,7 @@
 [[Exodus 3.13]] - [[Exodus 3.14]] & [[John 8.57]] - [[John 8.59]]
 
 ### New Testament
-[[John 10.30]]
+[[John 10.30]] - [[John 10.33]]
 [[John 1.1]] - [[John 1.20]]
 [[John 5.18]]
 [[Matthew 9.4]]
