@@ -21,3 +21,4 @@
 [[John 17.24]]
 [[Colossians 1.15]] - [[Colossians 1.17]]
 [[Matthew 28.19]]
+[[John 9.35]] - [[John 9.38]]
