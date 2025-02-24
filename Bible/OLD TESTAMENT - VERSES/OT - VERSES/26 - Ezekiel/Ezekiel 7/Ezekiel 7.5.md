@@ -1,1 +1,0 @@
-Thus saith the Lord God; An evil, an only evil, behold, is come.

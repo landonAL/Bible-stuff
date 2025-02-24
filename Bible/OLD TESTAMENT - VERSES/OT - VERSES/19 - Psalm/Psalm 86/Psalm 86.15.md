@@ -1,1 +1,0 @@
-But thou, O Lord, art a God full of compassion, and gracious, long suffering, and plenteous in mercy and truth.

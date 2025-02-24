@@ -1,1 +1,0 @@
-Therefore thus saith the Lord God; Because ye have spoken vanity, and seen lies, therefore, behold, I am against you, saith the Lord God.

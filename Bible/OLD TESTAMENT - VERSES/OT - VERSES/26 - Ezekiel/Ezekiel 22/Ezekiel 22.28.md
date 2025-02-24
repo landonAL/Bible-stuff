@@ -1,1 +1,0 @@
-And her prophets have daubed them with untempered morter, seeing vanity, and divining lies unto them, saying, Thus saith the Lord God, when the LORD hath not spoken.

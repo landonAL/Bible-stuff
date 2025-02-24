@@ -1,1 +1,0 @@
-Peres; Thy kingdom is divided, and given to the Medes and Persians.

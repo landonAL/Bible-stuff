@@ -1,1 +1,0 @@
-The Lord God, which gathereth the outcasts of Israel saith, Yet will I gather others to him, beside those that are gathered unto him.

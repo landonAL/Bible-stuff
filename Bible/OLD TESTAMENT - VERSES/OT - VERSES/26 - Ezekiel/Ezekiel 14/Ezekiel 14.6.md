@@ -1,1 +1,0 @@
-Therefore say unto the house of Israel, Thus saith the Lord God; Repent, and turn yourselves from your idols; and turn away your faces from all your abominations.

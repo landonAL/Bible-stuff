@@ -1,1 +1,0 @@
-For thus saith the Lord God; I will even deal with thee as thou hast done, which hast despised the oath in breaking the covenant.

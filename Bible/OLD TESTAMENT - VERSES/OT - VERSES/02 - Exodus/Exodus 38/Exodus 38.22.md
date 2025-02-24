@@ -1,1 +1,0 @@
-And Bezaleel the son Uri, the son of Hur, of the tribe of Judah, made all that the LORD commanded Moses.

@@ -1,1 +1,0 @@
-Let your speech be always with grace, seasoned with salt, that ye may know how ye ought to answer every man.

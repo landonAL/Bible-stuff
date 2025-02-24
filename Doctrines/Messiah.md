@@ -1,4 +1,5 @@
-[[Isaiah 7.14]]
-[[Zechariah 12.10]] - [[John 19.37]]
-[[Isaiah 53]] & [[Matthew 8.17]]
-[[Zechariah 13.6]]
+[Isaiah 7:14](https://www.biblegateway.com/passage/?search=isaiah%207%3A14&version=KJV)
+[Zechariah 12:10](https://www.biblegateway.com/passage/?search=zech%2012%3A10&version=KJV) & [John 19:37](https://www.biblegateway.com/passage/?search=john%2019%3A37&version=KJV)
+[Isaiah 53](https://www.biblegateway.com/passage/?search=isaiah%2053&version=KJV) & [Matthew 8:17](https://www.biblegateway.com/passage/?search=matthew%208%3A17&version=KJV)
+[Zechariah 13:6](https://www.biblegateway.com/passage/?search=zech%2013%3A6&version=KJV)
+[Isaiah 9:6](https://www.biblegateway.com/passage/?search=isaiah%209%3A6&version=KJV)

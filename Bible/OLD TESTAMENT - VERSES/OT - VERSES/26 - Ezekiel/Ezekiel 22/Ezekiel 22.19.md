@@ -1,1 +1,0 @@
-Therefore thus saith the Lord God; Because ye are all become dross, behold, therefore I will gather you into the midst of Jerusalem.

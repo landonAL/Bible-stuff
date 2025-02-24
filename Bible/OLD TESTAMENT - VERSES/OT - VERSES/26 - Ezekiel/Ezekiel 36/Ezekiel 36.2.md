@@ -1,1 +1,0 @@
-Thus saith the Lord God; Because the enemy hath said against you, Aha, even the ancient high places are ours in possession:

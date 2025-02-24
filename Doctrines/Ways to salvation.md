@@ -1,7 +1,7 @@
-[[John 14.6]]
-[[John 3.16]] - [[John 3.18]]
-[[1 Thessalonians 5.9]] - [[1 Thessalonians 5.10]]
-[[Romans 6.23]]
-[[Romans 1.16]]
-[[John 1.12]] - [[John 1.13]]
-[[Ephesians 1.13]] - [[Ephesians 1.14]]
+[John 14:6](https://www.biblegateway.com/passage/?search=john%2014%3A6&version=KJV)
+[John 3:16-18](https://www.biblegateway.com/passage/?search=john%203%3A16-18&version=KJV)
+[1 Thessalonians 5:9-10](https://www.biblegateway.com/passage/?search=1%20thess%205%3A9-10&version=KJV)
+[Romans 6:23](https://www.biblegateway.com/passage/?search=romans%206%3A23&version=KJV)
+[Romans 1:16](https://www.biblegateway.com/passage/?search=romans%201%3A16&version=KJV)
+[John 1:12-13](https://www.biblegateway.com/passage/?search=john%201%3A12-13&version=KJV)
+[Ephesians 1:13-14](https://www.biblegateway.com/passage/?search=eph%201%3A13-14&version=KJV)

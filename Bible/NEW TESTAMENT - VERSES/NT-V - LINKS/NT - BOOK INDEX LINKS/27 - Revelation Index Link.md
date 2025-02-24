@@ -1,1 +1,0 @@
-##### [[27 - Revelation - Index]]

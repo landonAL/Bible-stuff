@@ -1,1 +1,0 @@
-Thus saith the Lord God; This shall be the border, whereby ye shall inherit the land according to the twelve tribes of Israel: Joseph shall have two portions.

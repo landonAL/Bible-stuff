@@ -1,1 +1,0 @@
-Thus hath the Lord God shewed unto me: and behold a basket of summer fruit.

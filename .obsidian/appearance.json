@@ -1,4 +1,9 @@
 {
   "theme": "system",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "cssTheme": "",
+  "accentColor": "",
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "baseFontSize": 16
 }

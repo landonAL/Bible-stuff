@@ -1,1 +1,1 @@
-[[Matthew 1.24]] - [[Matthew 1.25]]
+[Matthew 1:24-25](https://www.biblegateway.com/passage/?search=matthew%201%3A24-25&version=KJV)

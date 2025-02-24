@@ -1,1 +1,0 @@
-Have I any pleasure at all that the wicked should die? saith the Lord God: and not that he should return from his ways, and live?

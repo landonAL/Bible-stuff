@@ -1,1 +1,0 @@
-Thus saith the Lord God; Because they say unto you, Thou land devourest up men, and hast bereaved thy nations:

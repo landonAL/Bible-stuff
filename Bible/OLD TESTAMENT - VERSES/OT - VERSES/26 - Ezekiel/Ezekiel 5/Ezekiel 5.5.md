@@ -1,1 +1,0 @@
-Thus saith the Lord God; This is Jerusalem: I have set it in the midst of the nations and countries that are round about her.

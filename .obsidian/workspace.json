@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "917d443212f76e52",
+        "id": "a7c165072ae9d832",
         "type": "tabs",
         "children": [
           {
-            "id": "4c9950497509f3dd",
+            "id": "4bb8726588fc1674",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Doctrines/Evolution.md",
-                "bFile": "Doctrines/Evolution.md",
-                "aRef": ""
+                "file": "Doctrines/Homosexuality.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: Evolution"
+              "icon": "lucide-file",
+              "title": "Homosexuality"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -61,16 +62,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "2b427d0845285e24",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
@@ -167,60 +158,61 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c9950497509f3dd",
+  "active": "4bb8726588fc1674",
   "lastOpenFiles": [
-    "Doctrines/Evolution.md",
-    "Bible/OLD TESTAMENT - VERSES/OT - VERSES/01 - Genesis/Genesis 2/Genesis 2.7.md",
     "Doctrines/Homosexuality.md",
+    "Doctrines/King James Version Only.md",
     "Doctrines/Mary's sinlessness.md",
-    "Doctrines/Ways to salvation.md",
-    "Doctrines/Trinity.md",
-    "Doctrines/Tongues.md",
-    "Doctrines/Punishment.md",
-    "Doctrines/Perpetual virginity of Mary.md",
+    "Doctrines/Evolution.md",
     "Doctrines/Messiah.md",
-    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 10/Mark 10.6.md",
-    "Bible/OLD TESTAMENT - VERSES/OT - VERSES/01 - Genesis/Genesis 5/Genesis 5.md",
-    "Bible/OLD TESTAMENT - VERSES/OT - VERSES/03 - Leviticus/Leviticus 18/Leviticus 18.22.md",
-    "Bible/asd.ps1",
-    "Bible/New Windows Batch File.bat",
-    "Questions/Why do we deserve an infinite punishment for a finite crime.md",
-    "Questions",
+    "Doctrines/Ways to salvation.md",
+    "Doctrines/Punishment.md",
+    "Doctrines/Tongues.md",
+    "Creeds & Confessions/Athanasian Creed.md",
     "Creeds & Confessions/Apostle's Creed.md",
-    "Creeds & Confessions/Nicene Creed.md",
-    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 10/Mark 10.18.md",
-    "Images/Types of Predestination process'.png",
-    "Recording 20250112082549.m4a",
-    "Recording 20250112082530.m4a",
-    "Images/Denominations Divided.png",
-    "Miscellaneous/False Denominations/Jehovah's Witness.md",
     "Miscellaneous/False Denominations/Mormonism.md",
-    "Bible/OLD TESTAMENT - VERSES/OT - VERSES/05 - Deuteronomy/Deuteronomy 22/Deuteronomy 22.5.md",
-    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/15 - 1 Timothy/1 Timothy 1/1 Timothy 1.8.md",
-    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/15 - 1 Timothy/1 Timothy 1/1 Timothy 1.11.md",
-    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/15 - 1 Timothy/1 Timothy 1/1 Timothy 1.10.md",
-    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/15 - 1 Timothy/1 Timothy 1/1 Timothy 1.9.md",
-    "Images/Does the Bible have more authority than the Church ( Protestant vs. Catholic).png",
-    "Bible/OLD TESTAMENT - VERSES/OT - VERSES/01 - Genesis/Genesis 2/Genesis 2.24.md",
-    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/26 - Jude/Jude 1/Jude 1.7.md",
-    "Images/How is one saved pt 3. (actual process Protestant vs. Catholic).png",
-    "Images/Pyramid of Truth.png",
+    "Obsidian 1.8.3 for desktop and mobile — adds Web Viewer, improved iCloud sync, download images locally...  -  r - ObsidianMD.md",
+    "Miscellaneous/False Denominations/Jehovah's Witness.md",
+    "Doctrines/Trinity.md",
+    "Doctrines/Perpetual virginity of Mary.md",
+    "John 10.30.md",
+    "Untitled.md",
+    "Calculus.md",
+    "Images/NT MSS Chart.png",
+    "Evolution.md",
+    "Bible/OLD TESTAMENT - VERSES/OT - VERSES/01 - Genesis/Genesis 2/Genesis 2.7.md",
+    "Creeds & Confessions/Belgic Confession.md",
+    "Images/NT MSS Chart.png.crdownload",
+    "Images/NT MSS Chart.gif",
+    "Images/Denominations Divided.png",
+    "Images/asd.canvas",
+    "Images/Christology (How we talk about Christ).png",
     "Images/Reformed view of Communion.png",
     "Images/Major Protestant Beliefs.png",
-    "Images/How is one saved pt 2. (What does faith and works mean to Protestant and Catholic).png",
+    "Images/Reformed View of Communion.canvas",
+    "Images/Pyramid of Truth.png",
+    "Images/Types of Predestination process'.png",
+    "Images/Sacrament meaning to different Protestants.png",
+    "Images/Purpose of the Sacraments.png",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/04 - John/John 14/John 14.6.md",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 10/Mark 10.18.md",
+    "Bible/OLD TESTAMENT - VERSES/OT - VERSES/23 - Isaiah/Isaiah 45/Isaiah 45.18.md",
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 10/Mark 10.6.md",
+    "Bible/OLD TESTAMENT - VERSES/OT - VERSES/01 - Genesis/Genesis 5/Genesis 5.md",
+    "Bible/asd.ps1",
+    "Bible/New Windows Batch File.bat",
+    "Questions",
+    "Recording 20250112082549.m4a",
+    "Recording 20250112082530.m4a",
     "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 9",
     "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 8",
     "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 7",
-    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 6",
-    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 5",
-    "Images/Christology (How we talk about Christ).png",
-    "Images/How do the Sacraments effect salvation.png"
+    "Bible/NEW TESTAMENT - VERSES/NT - VERSES/02 - Mark/Mark 6"
   ]
 }

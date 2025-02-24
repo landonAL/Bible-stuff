@@ -1,1 +1,0 @@
-Thus saith the Lord God of hosts, Go, get thee unto this treasurer, even unto Shebna, which is over the house, and say,

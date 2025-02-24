@@ -1,1 +1,0 @@
-Therefore thus saith the Lord God; Because thou hast lifted up thyself in height, and he hath shot up his top among the thick boughs, and his heart is lifted up in his height;
